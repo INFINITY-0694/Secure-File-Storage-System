@@ -45,7 +45,7 @@ git clone https://github.com/your-username/SecureFileStorageSystem.git
 cd SecureFileStorageSystem
 ```
 
-##💡 How It Works
+## 💡 How It Works
 
 Encrypt File/Folder → Select a file/folder → Enter password → Encrypted file is saved with .enc extension.
 Decrypt File/Folder → Select .enc file → Enter correct password → Original file is restored.
@@ -56,6 +56,7 @@ Drag-and-Drop → Instantly encrypt files dropped into the app window.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## 🙋‍♂️ Developer
-###Divy R Soni
+- Divy R Soni
+
 📧 Email: divysoniofficial@gmail.com
- LinkedIn : https://www.linkedin.com/in/divy-soni0694
+LinkedIn : https://www.linkedin.com/in/divy-soni0694
